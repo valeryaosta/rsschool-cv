@@ -1,4 +1,3 @@
-### [My rsschool-cv](https://valeryaosta.github.io/rsschool-cv/cv)
 # **Valerya Gerasimenko**
 ### ✨ I'm a *Frontend* developer from Belarus, Minsk.
 #### I am a highly-motivated person who has the real passion for programming.
