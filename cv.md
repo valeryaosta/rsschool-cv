@@ -18,4 +18,15 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge) 
 #
-
+#### Education:
+```
+IT-Academy 
+IT-Incubator
+Udemy
+Rolling Scopes - present
+```
+#
+#### Languages:
+* Russian (native) (C2)
+* Intermediate+ (B1-B2)
+#
