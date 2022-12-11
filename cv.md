@@ -1,4 +1,4 @@
-### [rsschool-cv](https://valeryaosta.github.io/rsschool-cv/)
+### [My rsschool-cv](https://valeryaosta.github.io/rsschool-cv/cv)
 # **Valerya Gerasimenko**
 ### ✨ I'm a *Frontend* developer from Belarus, Minsk.
 #### I am a highly-motivated person who has the real passion for programming.
@@ -18,13 +18,18 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge) 
 #
+#### Code example:
+```
+function showMessage() {
+  alert( 'Hello everyone!' );
+}
+```
+#
 #### Education:
-```
-IT-Academy 
-IT-Incubator
-Udemy
-Rolling Scopes - present
-```
+* IT-Academy 
+* IT-Incubator
+* Udemy
+* Rolling Scopes - present
 #
 #### Languages:
 * Russian (native) (C2)
