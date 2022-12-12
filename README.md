@@ -1,1 +1,2 @@
-# [rsschool-cv](https://valeryaosta.github.io/rsschool-cv/cv)
+# [markdown](https://valeryaosta.github.io/rsschool-cv/cv)
+# [html&css](https://valeryaosta.github.io/rsschool-cv/)
