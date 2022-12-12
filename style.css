@@ -1,0 +1,138 @@
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-weight: normal;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #1790b7;
+    font-weight: 600;
+}
+
+a:hover {
+    color: #0a6a88;
+    font-weight: 600;
+}
+
+a:visited {
+    color: #063949;
+    font-weight: 600;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.wrapper {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header {
+
+}
+
+.header .heading {
+    display: flex;
+    align-items: center;
+}
+
+.heading h1 {
+  font-size: 46px;
+  font-weight: 800;
+  font-style: oblique;
+}
+
+.heading .avatar {
+    width: 120px;
+}
+
+.header .about-me {
+
+}
+
+.about-me h2 {
+    margin-bottom: 30px;
+}
+
+.about-me h3 {
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 15px;
+}
+main .contacts {
+    margin: 20px 0;
+}
+
+.contacts ul {
+    list-style: none;
+}
+
+.contacts ul > li {
+   margin: 10px 0;
+}
+
+main .skills {
+    margin: 20px 0;
+}
+
+.skills h3 {
+    margin-bottom: 15px;
+}
+
+.skills .skills-list {
+    list-style: none;
+    display: flex;
+}
+
+.skills .skills-list li {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    margin: 5px;
+    width: fit-content;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.main .code {
+
+}
+
+.code pre code {
+    background-color: #f6f8fa;
+    border-radius: 3px;
+    display: block;
+    padding: 10px 60px 10px 0;
+    width: fit-content;
+}
+
+main .education ,
+main .langs {
+    margin: 20px 0;
+}
+
+.education ul > li,
+.langs ul > li {
+    margin: 10px;
+    margin-left: 30px;
+}
+
+footer h3 {
+    font-weight: 600;
+}
